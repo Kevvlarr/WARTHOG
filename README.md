@@ -1,8 +1,7 @@
 # WARTHOG
 
 > Little preview of the bot!
-![Untitled-1](https://user-images.githubusercontent.com/78349534/178534254-b6988c60-1262-41da-a07f-e27a7685eba1.png)
-
+![](https://user-images.githubusercontent.com/78349534/178534254-b6988c60-1262-41da-a07f-e27a7685eba1.png)
 ![](https://user-images.githubusercontent.com/78349534/178532961-737a6147-47df-4d54-b1f2-0b8ec1604713.png)
 
 
